@@ -29,8 +29,8 @@
 ### 📊 And some statistics...
 
 <div align="center">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=prezesJakub">
+    <img height="220em" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&username=prezesJakub">
     <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=github_dark&hide_border=true&size_weight=0.5&count_weight=0.5&username=prezesJakub">
-    <img height="220em" src="https://streak-stats.demolab.com/?user=prezesJakub&theme=dark">
+    <img height="220em" src="https://github-readme-streak-stats-eight.vercel.app/?user=prezesJakub&theme=dark">
     <img height="220em" src="https://github-profile-trophy.vercel.app/?username=prezesJakub&theme=onedark">
 </div>
